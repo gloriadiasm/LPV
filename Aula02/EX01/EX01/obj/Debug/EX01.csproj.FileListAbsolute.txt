@@ -1,0 +1,7 @@
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\obj\Debug\EX01.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\obj\Debug\EX01.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\bin\Debug\EX01.exe.config
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\bin\Debug\EX01.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\bin\Debug\EX01.pdb
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\obj\Debug\EX01.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX01\EX01\obj\Debug\EX01.pdb

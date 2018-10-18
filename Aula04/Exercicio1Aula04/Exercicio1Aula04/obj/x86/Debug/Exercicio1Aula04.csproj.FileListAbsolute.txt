@@ -1,0 +1,18 @@
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\bin\Debug\Exercicio1Aula04.exe
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\bin\Debug\Exercicio1Aula04.pdb
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.Form1.resources
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.Properties.Resources.resources
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.exe
+C:\Documents and Settings\curso\Desktop\Orientacao Objetos\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.pdb
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\bin\Debug\Exercicio1Aula04.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\bin\Debug\Exercicio1Aula04.pdb
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.Form1.resources
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.Properties.Resources.resources
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.csproj.GenerateResource.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula04\Exercicio1Aula04\Exercicio1Aula04\obj\x86\Debug\Exercicio1Aula04.pdb

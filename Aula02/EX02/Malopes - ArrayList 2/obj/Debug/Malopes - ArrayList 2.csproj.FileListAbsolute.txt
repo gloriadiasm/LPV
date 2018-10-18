@@ -1,0 +1,7 @@
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\obj\Debug\Malopes - ArrayList 2.csprojAssemblyReference.cache
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\obj\Debug\Malopes - ArrayList 2.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\bin\Debug\Malopes - ArrayList 2.exe.config
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\bin\Debug\Malopes - ArrayList 2.exe
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\bin\Debug\Malopes - ArrayList 2.pdb
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\obj\Debug\Malopes - ArrayList 2.exe
+C:\Users\Zupper\Desktop\Malopes - ArrayList 2\Malopes - ArrayList 2\obj\Debug\Malopes - ArrayList 2.pdb

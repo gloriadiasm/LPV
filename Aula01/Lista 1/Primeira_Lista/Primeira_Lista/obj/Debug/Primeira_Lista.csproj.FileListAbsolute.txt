@@ -1,0 +1,7 @@
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\obj\Debug\Primeira_Lista.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\obj\Debug\Primeira_Lista.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\bin\Debug\Primeira_Lista.exe.config
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\bin\Debug\Primeira_Lista.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\bin\Debug\Primeira_Lista.pdb
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\obj\Debug\Primeira_Lista.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula1_Exercicio1\Lista 1\Primeira_Lista\Primeira_Lista\obj\Debug\Primeira_Lista.pdb

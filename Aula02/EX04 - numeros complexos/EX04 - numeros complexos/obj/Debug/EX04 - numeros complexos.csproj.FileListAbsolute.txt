@@ -1,0 +1,7 @@
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\obj\Debug\EX04 - numeros complexos.csprojAssemblyReference.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\obj\Debug\EX04 - numeros complexos.csproj.CoreCompileInputs.cache
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\bin\Debug\EX04 - numeros complexos.exe.config
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\bin\Debug\EX04 - numeros complexos.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\bin\Debug\EX04 - numeros complexos.pdb
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\obj\Debug\EX04 - numeros complexos.exe
+C:\Users\Zupper\Documents\Unitriste\Programação Visual\Aula02\EX04 - numeros complexos\EX04 - numeros complexos\obj\Debug\EX04 - numeros complexos.pdb
